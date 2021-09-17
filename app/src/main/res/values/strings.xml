@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">C18_Intent</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="required">Required*</string>
+    <string name="prefix">Q:</string>
+    <string name="prefix1">A:</string>
+    <string name="error">Ngắn thôi má...!!!</string>
+    <string name="send">Send Question</string>
+    <string name="send1">Send Answer</string>
+</resources>
